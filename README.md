@@ -1,5 +1,4 @@
-# Hey World
-# My name is Merjem Memic
+# Hey World! My name is Merjem Memic
 I am an undergrad student at the University of Michigan majoring in Computer Science and Data Science.
 I like working with different kinds of data and experiemnting with new ML and NLP models. 
 
@@ -28,9 +27,9 @@ I like working with different kinds of data and experiemnting with new ML and NL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## IDEs (Ranked)
+I think everyone has their favorites, so these are teh ones I have used for an entire project and how i would rank them. 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -39,13 +38,18 @@ I like working with different kinds of data and experiemnting with new ML and NL
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 <!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reikoc1735&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merjemmm&layout=compact&theme=dracula)
 --->
 
 ## Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/reiko-chen)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/merjem-memic)
+
+I also have a [Personal Website](https://merjemmm.github.io/Personal-Site/) with some more information.
+
+
+
 
 <!---
-reikoc1735/reikoc1735 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
